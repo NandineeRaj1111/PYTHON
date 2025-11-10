@@ -19,7 +19,7 @@ print(a+b)
 print(a-b)
 print(a**b)
 
-# filtering
+# boolean indexing
 # comparison op
 marks=np.array([98,87,67,56,44])
 marks[marks<60]=0 # means they wont get grading i.e they are fail
